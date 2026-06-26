@@ -1,6 +1,6 @@
 <?php
 
-namespace App\taskOptions;
+namespace App\TaskOptions;
 
 enum TaskPriority: string
 {
