@@ -29,7 +29,7 @@ php artisan key:generate
 php artisan jwt:secret
 php artisan migrate
 php artisan serve
-```
+
 
 La API queda en `http://localhost:8000`.
 
@@ -67,4 +67,4 @@ Cada proyecto tiene su propio README con los pasos completos de instalación, va
 
 ## Video de demostración
 
-ttps://drive.google.com/drive/folders/1soAdSs9YV69yHZ9uS_T1B2xNTURHHsA9?usp=sharing 
+'https://drive.google.com/drive/folders/1soAdSs9YV69yHZ9uS_T1B2xNTURHHsA9?usp=sharing'
